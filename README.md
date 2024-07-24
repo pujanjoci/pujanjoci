@@ -30,7 +30,7 @@ I aspire to become a full-stack developer, creating robust and scalable web appl
 ## 📊 Profile Views
 
 <p align="center">
-    <img src="https://gpvc.arturio.dev/pujanjoci" alt="Profile views">
+    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 </p>
 
 ## 📬 Contact
