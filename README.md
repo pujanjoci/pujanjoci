@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Web Developer Dedicated to Crafting Innovative and User-Centric Solutions</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pujanjoci&label=Profile%20Views&color=0e75b6&style=plastic" alt="pujanjoci" />
+  <img src="https://komarev.com/ghpvc/?username=pujanjoci&label=Visitors&color=0e75b6&style=plastic" alt="pujanjoci" />
 </p>
 
 <img align="right" alt="octocat" width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
