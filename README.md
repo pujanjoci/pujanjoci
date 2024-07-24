@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Pujan Joshi
+<h1 align="center"># 👋 Hi there, I'm Pujan Joshi</h1>
 
-I am an aspiring web developer passionate about creating interactive and dynamic web applications. You can explore my projects on my [website](http://pujanj-joshi.com.np). 🚀
+I am an aspiring web developer passionate about creating interactive and dynamic web applications. You can explore my work and learn more about me on my [website](http://pujan-joshi.com.np). 🚀
 
 ## 🔧 Technologies & Tools
 
@@ -14,33 +14,33 @@ I am an aspiring web developer passionate about creating interactive and dynamic
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-## 🌟 Projects
+## 📜 About Me
 
-### Project Name
-Brief description of the project.
-- [GitHub Repository](#)
-- [Live Demo](#)
+I am currently honing my skills in web development, focusing on both front-end and back-end technologies. My journey into the world of programming started with a curiosity about how websites are built and evolved into a full-fledged passion.
 
-### Project Name
-Brief description of the project.
-- [GitHub Repository](#)
-- [Live Demo](#)
+### 🌱 What I'm Currently Learning
+- Deepening my knowledge in **React** and **Next.js**
+- Exploring advanced **CSS** techniques and frameworks like **TailwindCSS**
+- Learning more about **MySQL** and database management
 
-### Project Name
-Brief description of the project.
-- [GitHub Repository](#)
-- [Live Demo](#)
+### 💼 Professional Goals
+I aspire to become a full-stack developer, creating robust and scalable web applications. My goal is to contribute to projects that make a real impact, both for users and businesses.
+
+### ⚡ Fun Facts
+- I enjoy solving coding challenges and puzzles.
+- In my free time, I like to read tech blogs and stay updated with the latest trends in web development.
+- I'm a big fan of open-source projects and love to contribute whenever I can.
 
 ## 📊 Profile Views
 
 <p align="center">
-    <img src="https://gpvc.arturio.dev/your-github-username" alt="Profile views">
+    <img src="https://gpvc.arturio.dev/pujanjoci" alt="Profile views">
 </p>
 
 ## 📬 Contact
 
-Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](#).
+Feel free to reach out to me via [email](mailto:pujanjoci01@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/pujan-joshi-b811071a1).
 
 ---
 
-<p align="center">⭐️ From <a href="http://pujanj-joshi.com.np">Pujan Joshi</a></p>
+<p align="center">⭐️ From <a href="http://pujan-joshi.com.np">Pujan Joshi</a></p>
