@@ -30,8 +30,19 @@ I aspire to become a full-stack developer, creating robust and scalable web appl
 ## 📊 Profile Views
 
 <p align="center">
-    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS)
 </p>
+
+<!-- Optional: Different styles and colors for the view counter -->
+<!--
+<p align="center">
+    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&color=blue)
+    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&color=green)
+    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&color=yellow)
+    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&style=flat-square)
+    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&style=plastic)
+</p>
+-->
 
 ## 📬 Contact
 
