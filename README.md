@@ -1,53 +1,24 @@
-<h1 align="center"># 👋 Hi there, I'm Pujan Joshi</h1>
+<h1 align="center">Hi 👋, I'm Pujan Joshi</h1>
+<h3 align="center">An aspiring web developer from Nepal</h3>
 
-I am an aspiring web developer passionate about creating interactive and dynamic web applications. You can explore my work and learn more about me on my [website](http://pujan-joshi.com.np). 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pujanjoci&label=Profile%20views&color=0e75b6&style=flat" alt="pujanjoci" /> </p>
 
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on [Blog-Site](pujanjoci.github.io/blog-site/)
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+- 👨‍💻 All of my projects are available at [pujan-joshi.com.np](pujan-joshi.com.np)
+
+- 📝 I regularly write articles on [pujanjoci.github.io/blog-site/](pujanjoci.github.io/blog-site/)
+
+- 📫 How to reach me **pujanjoci01@gmail.com**
+
+- 📄 Know about my experiences [pujan-joshi.com.np/resume.html](pujan-joshi.com.np/resume.html)
+
+- ⚡ Fun fact **I can procrastinate and still do my work on time at the last minute.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pujan-joshi-b811071a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pujan-joshi-b811071a1/" height="30" width="40" /></a>
 </p>
 
-## 📜 About Me
-
-I am currently honing my skills in web development, focusing on both front-end and back-end technologies. My journey into the world of programming started with a curiosity about how websites are built and evolved into a full-fledged passion.
-
-### 🌱 What I'm Currently Learning
-- Deepening my knowledge in **React** and **Next.js**
-- Exploring advanced **CSS** techniques and frameworks like **TailwindCSS**
-- Learning more about **MySQL** and database management
-
-### 💼 Professional Goals
-I aspire to become a full-stack developer, creating robust and scalable web applications. My goal is to contribute to projects that make a real impact, both for users and businesses.
-
-
-## 📊 Profile Views
-
-<p align="center">
-    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS)
-</p>
-
-<!-- Optional: Different styles and colors for the view counter -->
-<!--
-<p align="center">
-    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&color=blue)
-    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&color=green)
-    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&color=yellow)
-    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&style=flat-square)
-    ![Profile views](https://komarev.com/ghpvc/?username=pujanjoci&label=PROFILE+VIEWS&style=plastic)
-</p>
--->
-
-## 📬 Contact
-
-Feel free to reach out to me via [email](mailto:pujanjoci01@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/pujan-joshi-b811071a1).
-
----
-
-<p align="center">⭐️ From <a href="http://pujan-joshi.com.np">Pujan Joshi</a></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
