@@ -26,10 +26,6 @@ I am currently honing my skills in web development, focusing on both front-end a
 ### 💼 Professional Goals
 I aspire to become a full-stack developer, creating robust and scalable web applications. My goal is to contribute to projects that make a real impact, both for users and businesses.
 
-### ⚡ Fun Facts
-- I enjoy solving coding challenges and puzzles.
-- In my free time, I like to read tech blogs and stay updated with the latest trends in web development.
-- I'm a big fan of open-source projects and love to contribute whenever I can.
 
 ## 📊 Profile Views
 
