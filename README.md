@@ -71,10 +71,10 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujanjoci&show_icons=true&locale=en&layout=compact" alt="pujanjoci" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujanjoci&show_icons=true&locale=en&layout=compact" alt="pujanjoci" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujanjoci&show_icons=true&locale=en" alt="pujanjoci" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujanjoci&show_icons=true&locale=en" alt="pujanjoci" /></p>
 
 
 <h3 align="center">Happy Coding! 🎉</h3>
