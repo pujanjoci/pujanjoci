@@ -66,7 +66,7 @@
 
 <!-- Balloon Easter Egg -->
 <p align="right" style="margin-top: 20px;">
-  <a href="https://pujan-joshi.com.np" target="_blank">
+  <a href="https://pujan-joshi.com.np/Easter-Egg.html" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2a31faed-ce70-47ba-8ea5-a3f44c5ecfe0/dayk30o-98f6c16f-32c3-4b65-bb17-a54e93f46f0d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhMzFmYWVkLWNlNzAtNDdiYS04ZWE1LWEzZjQ0YzVlY2ZlMFwvZGF5azMwby05OGY2YzE2Zi0zMmMzLTRiNjUtYmIxNy1hNTRlOTNmNDZmMGQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tMqWQpaQFMPMsldiokPGZuS9bMl7hnr7xKvPuGKYcn8" alt="Balloon" width="50" height="50" />
   </a>
 </p>
