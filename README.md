@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pujan Joshi</h1>
-<h3 align="center">An aspiring web developer trying to fit in the developer space and showcase my projects</h3>
+<h3 align="center">A web developer and desiner trying to fit in the developer space and showcase my projects</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pujanjoci&label=Visitors&color=0e75b6&style=plastic" alt="pujanjoci" />
