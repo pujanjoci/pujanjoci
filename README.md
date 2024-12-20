@@ -8,7 +8,7 @@
 <img align="right" alt="octocat" width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 <p align="left">
-  🚀 I’m currently working on <a href="https://pujanjoci.github.io/clother/" target="_blank">Clothes-Selling-Site</a>, a platform where I share insights on web development and technology trends.<br>
+  🚀 I’m currently working on <a href="https://pujanjoci.github.io/clother/" target="_blank">Clothes-Selling-Site</a>, a platform where I am trying to add new content and new coding trends.<br>
   🌟 Explore my <a href="https://pujan-joshi.com.np" target="_blank">Portfolio</a> to see a collection of my work and projects.<br>
   ✍️ I regularly write articles on my <a href="https://pujanjoci.github.io/blog-site/" target="_blank">Blog</a>, where I cover a range of topics from coding tips to industry news.<br>
   📬 Feel free to reach out to me at <a href="mailto:pujanjoci01@gmail.com">pujanjoci01@gmail.com</a> for collaborations or inquiries.<br>
