@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pujan Joshi</h1>
-<h3 align="center">A web developer and desiner trying to fit in the developer space and showcase my projects</h3>
+<h3 align="center">A web developer and designer trying to fit in the developer space and showcase my projects</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pujanjoci&label=Visitors&color=0e75b6&style=plastic" alt="pujanjoci" />
@@ -13,7 +13,7 @@
   ✍️ I regularly write articles on my <a href="https://pujanjoci.github.io/blog-site/" target="_blank">Blog</a>, where I cover a range of topics from coding tips to industry news.<br>
   📬 Feel free to reach out to me at <a href="mailto:pujanjoci01@gmail.com">pujanjoci01@gmail.com</a> for collaborations or inquiries.<br>
   📄 Learn more about my professional background by checking out my <a href="https://pujan-joshi.com.np/resume.html" target="_blank">Resume</a>.<br>
-  🎉 Fun fact: I have a knack for procrastination but always manage to deliver results on time with a touch of last-minute magic!
+  🎉 Fun fact: I have a knack for procrastination but always deliver results on time with a touch of last-minute magic!
 </p>
 
 <h3 align="left">Connect with me:</h3>
