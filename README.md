@@ -10,6 +10,8 @@ Focus:         Clean Design • Interactive UI • Modern Web
 Location:      Internet || Nepal
 Availability:  Open for collaborations
 ```
+<img align="right" alt="octocat" width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+
 🚀 system.currentProjects()
 
 > ls ~/projects
@@ -30,7 +32,6 @@ Live projects → https://pujan-joshi.com.np
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -69,6 +70,13 @@ Live projects → https://pujan-joshi.com.np
   </a>
 </p>
 
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300">
+</div>
+
+
 <!-- Balloon Easter Egg -->
 <p align="right" style="margin-top: 20px;">
   <a href="https://pujan-joshi.com.np/Easter-Egg.html" target="_blank">
@@ -88,10 +96,14 @@ Thanks for stopping by!
 If you read this far, we should probably work together. 😄
 ```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujanjoci&show_icons=true&locale=en&layout=compact" alt="pujanjoci" /></p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pujanjoci&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pujanjoci&show_icons=true&locale=en" alt="GitHub Stats" />
+</p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujanjoci&show_icons=true&locale=en" alt="pujanjoci" /></p>
 
 
 <h3 align="center">Happy Coding! 🎉</h3>
