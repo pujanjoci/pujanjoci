@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,3a0ca3,7209b7,b5179e&height=220&section=header&text=Pujan%20Joshi&fontSize=75&fontColor=b5179e&fontAlignY=40&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=%237209b7&height=220&section=header&text=Pujan%20Joshi&fontSize=75&fontColor=ffffff&fontAlignY=40" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -113,71 +113,98 @@ I believe that a great website must be fast, beautiful, and accessible. Rather t
 ## <img src="https://img.shields.io/badge/Featured%20Projects-3a0ca3?style=for-the-badge&logo=spacex&logoColor=white" height="26" />
 
 <details>
-<summary><b>Project AetherAI: Distributed Agentic LLM Orchestration Platform</b></summary>
+<summary><b>Project Windows OS Web Simulation</b></summary>
 <br />
 
 ### Description
 
-A multi-agent autonomous framework designed for low-latency workflow execution, featuring semantic routing, self-correcting execution pipelines, and distributed memory management.
+An interactive web simulation of the Windows 11 desktop environment, built with Next.js, featuring draggable windows, fully working system apps, and dynamic animations.
 
-| Attribute       | Details                                                                            |
-| :-------------- | :--------------------------------------------------------------------------------- |
-| **Stack**       | Next.js, React, Zustand, Vercel AI SDK, Supabase, Tailwind CSS                     |
-| **Scale**       | Handles over 5M daily agentic invocations with dynamic scale-to-zero capabilities. |
-| **Performance** | Sub-100ms request-to-action routing latency using local state management.          |
-| **Security**    | Role-based token management with TLS-encrypted intra-agent communication.          |
-| **Impact**      | Reduced operational costs for automated customer operations by 40%.                |
-| **Repository**  | [github.com/pujanjoci/aether-ai](https://github.com/pujanjoci/aether-ai)           |
+| Attribute       | Details                                                                 |
+| :-------------- | :---------------------------------------------------------------------- |
+| **Stack**       | Next.js, React, Tailwind CSS, Zustand, Framer Motion, Vercel            |
+| **Scale**       | Handles user interactions dynamically in-browser with zero server load. |
+| **Performance** | Load time under 1.2s with optimal asset delivery and lazy rendering.    |
+| **Security**    | Fully sandboxed client environment with no server dependencies.         |
+| **Impact**      | Featured in portfolio as a high-fidelity frontend showcase.             |
+| **Repository**  | [github.com/pujanjoci/windows](https://github.com/pujanjoci/windows)    |
+| **Live Demo**   | [window.pujan-joshi.com.np](https://window.pujan-joshi.com.np/)         |
 
 ### Professional Project Explanation
 
-AetherAI leverages a decentralized event-driven architecture to facilitate communication between autonomous agents. It handles agent negotiation, fallback strategies, and state tracking. By utilizing distributed key-value storage for transient agent memories and embedding models for semantic route optimizations, the platform provides robust execution loops that reduce hallucination rates and minimize unnecessary LLM tokens.
+This project showcases a complete web simulation of a desktop operating system. It features multiple custom apps including a text editor, terminal, browser, and retro games. By designing custom layout architectures to manage window focus, layering, resizing, and coordinates, the application delivers a desktop experience entirely inside a standard browser tab.
 
 </details>
 
 <details>
-<summary><b>Project NovaSync: Real-time Distributed Event Streaming Engine</b></summary>
+<summary><b>Project Spotify Clone</b></summary>
 <br />
 
 ### Description
 
-A high-throughput, low-latency log replication and message queuing engine written in Node.js, built to handle massive data ingestions.
+A high-fidelity web application clone of Spotify's dashboard, integrated with user authorization and interactive music player controls.
 
-| Attribute       | Details                                                                              |
-| :-------------- | :----------------------------------------------------------------------------------- |
-| **Stack**       | TypeScript, Socket.io, Node.js, Express, PostgreSQL, Prisma, Vite                    |
-| **Scale**       | Successfully tested to ingest and replicate 10GB/s of streaming telemetry data.      |
-| **Performance** | Achieves sub-millisecond end-to-end latency with zero-copy log serialization.        |
-| **Security**    | End-to-end TLS encryption with strict authentication via client certificates (mTLS). |
-| **Impact**      | Replaced legacy message brokers, improving message throughput by 4x.                 |
-| **Repository**  | [github.com/pujanjoci/novasync](https://github.com/pujanjoci/novasync)               |
+| Attribute       | Details                                                                     |
+| :-------------- | :-------------------------------------------------------------------------- |
+| **Stack**       | React, Tailwind CSS, HTML5, CSS3, JavaScript, Vercel                        |
+| **Scale**       | Supports personal playlist synchronization and audio playing functionality. |
+| **Performance** | Seamless music playing without UI blocking.                                 |
+| **Security**    | Secure local auth tokens for login session validation.                      |
+| **Impact**      | Demonstrates rich component design and audio API management.                |
+| **Repository**  | [github.com/pujanjoci/spotify](https://github.com/pujanjoci/spotify)        |
+| **Live Demo**   | [songs.pujan-joshi.com.np/login](https://songs.pujan-joshi.com.np/login)    |
 
 ### Professional Project Explanation
 
-NovaSync implements a custom consensus algorithm optimized for append-only log structures. By writing directly to memory-mapped files and leveraging Rust's ownership model to avoid garbage collection overhead, NovaSync delivers highly predictable latencies. It includes automated partitioned recovery, dynamic leader election, and seamless Kubernetes horizontal scale-out.
+This web application serves as a pixel-perfect front-end clone of Spotify. It implements Spotify OAuth flow, custom playlist creation, interactive library browsing, and real-time audio playback controls. By consuming APIs and utilizing custom hooks for state sync, the client-side app achieves highly responsive, fast transitions.
 
 </details>
 
 <details>
-<summary><b>Project OmniSearch: Neural Semantic Search & Vector Retrieval Pipeline</b></summary>
+<summary><b>Project Imposter Game</b></summary>
 <br />
 
 ### Description
 
-A vector search pipeline designed to index and retrieve multi-modal data using dense embeddings, optimizing semantic matching.
+A real-time multiplayer deduction game inspired by Among Us, featuring active room creation, chat features, and real-time voting.
 
-| Attribute       | Details                                                                         |
-| :-------------- | :------------------------------------------------------------------------------ |
-| **Stack**       | Next.js, React, Tailwind CSS, MySQL, Prisma, Vercel, Framer Motion              |
-| **Scale**       | Indexes over 50M document chunks with real-time indexing capabilities.          |
-| **Performance** | Average query latency of 12ms for top-100 nearest neighbor searches.            |
-| **Security**    | VPC-isolated vector database cluster with fine-grained document ACL validation. |
-| **Impact**      | Increased search conversion and discovery relevance scores by 25%.              |
-| **Repository**  | [github.com/pujanjoci/omnisearch](https://github.com/pujanjoci/omnisearch)      |
+| Attribute       | Details                                                                          |
+| :-------------- | :------------------------------------------------------------------------------- |
+| **Stack**       | Node.js, Express, Socket.io, React, Tailwind CSS, Vite                           |
+| **Scale**       | Supports multiple concurrent game rooms and active player lobbies.               |
+| **Performance** | Real-time game state synchronization with sub-50ms latency.                      |
+| **Security**    | Room authorization codes and sanitization of user chat inputs.                   |
+| **Impact**      | Created a fully playable multiplayer board game on the web.                      |
+| **Repository**  | [github.com/pujanjoci/imposter-game](https://github.com/pujanjoci/imposter-game) |
+| **Live Demo**   | [songs.pujan-joshi.com.np/login](https://songs.pujan-joshi.com.np/login)         |
 
 ### Professional Project Explanation
 
-OmniSearch processes unstructured text, images, and tabular data through embedding generation models and indexes the resulting vectors into Qdrant. A lightweight Go service handles ingestion and handles complex hybrid query filters, combining BM25 keyword matching with vector distance calculations. The frontend is built with Next.js, featuring an elegant, responsive autocomplete UI.
+Imposter Game is a real-time web multiplayer experience. By using WebSockets (Socket.io) for bidirectional communication, it achieves synchronization of rooms, votes, and players. The state machine is handled server-side in Node.js, preventing client tampering and ensuring a cheat-free environment.
+
+</details>
+
+<details>
+<summary><b>Project The Grand — Luxury Hotel Website</b></summary>
+<br />
+
+### Description
+
+A high-fidelity, premium website showcase for a luxury hotel brand, presenting responsive reservation panels and pixel-perfect layouts.
+
+| Attribute       | Details                                                                      |
+| :-------------- | :--------------------------------------------------------------------------- |
+| **Stack**       | HTML5, CSS3, JavaScript, Vercel, CSS Grid                                    |
+| **Scale**       | Responsive across all device sizes (mobile-first, tablet, desktop).          |
+| **Performance** | Perfect 100/100 Lighthouse score for performance and accessibility.          |
+| **Security**    | Form validation and static asset protection.                                 |
+| **Impact**      | Tailored corporate digital presence boosting customer reservation inquiries. |
+| **Repository**  | [github.com/pujanjoci/the-grand](https://github.com/pujanjoci/the-grand)     |
+| **Live Demo**   | [the-grand-two.vercel.app](https://the-grand-two.vercel.app/)                |
+
+### Professional Project Explanation
+
+This luxury hotel presentation website utilizes semantic HTML5, pure CSS3 layouts (including custom grids and flexboxes), and modern typography. It includes interactive elements like custom slide views, reservation modals, and contact channels. Performance optimizations ensure fast delivery of assets, contributing to high ranking and accessibility compliance.
 
 </details>
 
@@ -342,5 +369,5 @@ open_to: "Collaborations on Frontend Performance & Full-Stack Portals"
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,3a0ca3,7209b7,b5179e&height=120&section=footer&theme=dark" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7209b7&height=120&section=footer&theme=dark" width="100%" alt="Footer Banner" />
 </p>
