@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering-7209b7?style=flat-square&logo=gitbook&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Education-B%20I%20M-7209b7?style=flat-square&logo=gitbook&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Kathmandu,%20Nepal-3a0ca3?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </p>
 
