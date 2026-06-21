@@ -244,20 +244,6 @@ This luxury hotel presentation website utilizes semantic HTML5, pure CSS3 layout
 
 ---
 
-## <img src="https://img.shields.io/badge/Achievements-b5179e?style=for-the-badge&logo=codepen&logoColor=white" height="26" />
-
-<div align="center">
-
-| Recognition                  | Details                                                                                        |
-| :--------------------------- | :--------------------------------------------------------------------------------------------- |
-| **FAANG Hackathon Champion** | Awarded 1st place out of 150+ teams for designing an AI-driven energy optimization grid.       |
-| **Open Source Contributor**  | Active core contributor to major web frameworks and AI toolkits, with 500+ merged PRs.         |
-| **Tech Speaker & Presenter** | Invited speaker at regional tech conferences, delivering talks on distributed systems in Rust. |
-
-</div>
-
----
-
 ## <img src="https://img.shields.io/badge/Certifications-3a0ca3?style=for-the-badge&logo=credly&logoColor=white" height="26" />
 
 ### AWS
