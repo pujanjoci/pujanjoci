@@ -152,7 +152,7 @@ A high-fidelity web application clone of Spotify's dashboard, integrated with us
 | **Security**    | Secure local auth tokens for login session validation.                      |
 | **Impact**      | Demonstrates rich component design and audio API management.                |
 | **Repository**  | [github.com/pujanjoci/spotify](https://github.com/pujanjoci/spotify)        |
-| **Live Demo**   | [songs.pujan-joshi.com.np/login](https://songs.pujan-joshi.com.np/login)    |
+| **Live Demo**   | [songs.pujan-joshi.com.np/login](https://song.pujan-joshi.com.np)    |
 
 ### Professional Project Explanation
 
